@@ -1,0 +1,43 @@
+Voltage in Volt
+100
+
+Runtime in Minutes
+50
+
+Speed in RPM
+3000
+
+Motor Vibration in Hertz
+12
+
+Total Packed Goods Weight in Grams
+200000
+
+
+Temperature of Motor in Celsius
+30
+
+
+
+
+___________________________________________________________
+
+
+Voltage in Volt
+
+50
+Runtime in Minutes
+
+10
+Speed in RPM
+
+10000
+Motor Vibration in Hertz
+
+3
+Total Packed Goods Weight in Grams
+
+10000
+Temperature of Motor in Celsius
+
+30
